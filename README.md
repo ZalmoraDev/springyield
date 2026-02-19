@@ -6,10 +6,11 @@
 ![Springyield Employee view](/github/img.png)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-72b545?style=for-the-badge&logo=springboot&logoColor=white)
+![NGINX](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![H2](https://img.shields.io/badge/h2database-09476B.svg?style=for-the-badge&logo=h2database&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)<br>
+![Vue.js](https://img.shields.io/badge/vuejs-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 💰 Online Banking Application 🌿 Java Spring Boot, Vue.js & H2 ✨ Created as part of a school group project, where I
 played a major role ℹ️ Clone instead of fork: original repo had exposed credentials outside `.gitignore` 👤 Major project
