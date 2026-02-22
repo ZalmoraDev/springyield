@@ -1,7 +1,11 @@
-<h1>
+<div align="center">
+<h1 style="margin-top: 0; padding: 0;">
    <img src="./frontend/public/logo/logo-w.svg" alt="Springyield Logo" style="height: 30px; width: auto;">
    Springyield
 </h1>
+</div>
+
+
 
 ![Springyield Employee view](/github/img.png)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
